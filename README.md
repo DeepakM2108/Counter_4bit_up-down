@@ -1,5 +1,4 @@
 # Counter_4bit_up-down
-
 ## Aim:
 
 To write a verilog code for 4bit up/down counter and verify the functionality using Test bench. 
