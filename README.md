@@ -162,7 +162,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
-![Screenshot (155)](https://github.com/user-attachments/assets/19d7dcd1-1c05-4c2c-a1a5-f12d16b4486f)
+![Screenshot (130)](https://github.com/user-attachments/assets/a467f534-0fc2-438a-b413-7f74f6b49d94)
 
 ## Fig 7: Compiled database in worklib
 
@@ -192,7 +192,7 @@ It contains statements that map logical library names to their physical director
 9.	It also establishes net connectivity and prepares all of this for simulation
     
 	After elaboration the file will come under snapshot. Select the test bench and simulate it. 
-![Screenshot (156)](https://github.com/user-attachments/assets/a4fb3628-ef61-46bd-87e4-2559a4077dd2)
+![Screenshot (132)](https://github.com/user-attachments/assets/a8b72da8-a334-4034-9569-c5720b67bdaa)
 
 ## Fig 8: Elaboration Launch Option
 
@@ -205,13 +205,13 @@ It contains statements that map logical library names to their physical director
 	Simulation allow to dump design and test bench signals into a waveform 
 
 	Steps for simulation – Run the simulation command with simulator options
-![Screenshot (157)](https://github.com/user-attachments/assets/51c52b8f-7f6c-45da-a43c-6db04a1fd980)
+![Screenshot (133)](https://github.com/user-attachments/assets/e73d4f0c-0b66-4b60-bba4-246bf7590cc0)
 
 ## Fig 9: Design Browser window for simulation
-![Screenshot (158)](https://github.com/user-attachments/assets/88fd7176-cd00-4051-9463-b27d4e59c71b)
+![Screenshot (134)](https://github.com/user-attachments/assets/154e756f-3456-43cb-89d1-333e3d9b4ef0)
 
 ## Fig 10: Simulation Waveform Window
-![Screenshot (159)](https://github.com/user-attachments/assets/ae94faa7-51da-40d4-9462-1b17dad2ad2a)
+![Screenshot (135)](https://github.com/user-attachments/assets/291c6482-d890-4627-ad53-f5abf762442c)
 
 ## Fig 11: Simulation Waveform Window
 
